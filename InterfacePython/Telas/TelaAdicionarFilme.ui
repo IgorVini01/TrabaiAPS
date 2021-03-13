@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>579</width>
-    <height>439</height>
+    <height>531</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -21,7 +21,7 @@
     <property name="geometry">
      <rect>
       <x>46</x>
-      <y>360</y>
+      <y>430</y>
       <width>75</width>
       <height>23</height>
      </rect>
@@ -34,7 +34,7 @@
     <property name="geometry">
      <rect>
       <x>50</x>
-      <y>240</y>
+      <y>310</y>
       <width>101</width>
       <height>16</height>
      </rect>
@@ -47,7 +47,7 @@
     <property name="geometry">
      <rect>
       <x>150</x>
-      <y>360</y>
+      <y>430</y>
       <width>101</width>
       <height>23</height>
      </rect>
@@ -60,7 +60,7 @@
     <property name="geometry">
      <rect>
       <x>470</x>
-      <y>360</y>
+      <y>430</y>
       <width>75</width>
       <height>23</height>
      </rect>
@@ -76,7 +76,7 @@
     <property name="geometry">
      <rect>
       <x>50</x>
-      <y>260</y>
+      <y>330</y>
       <width>491</width>
       <height>91</height>
      </rect>
@@ -139,13 +139,39 @@
     <property name="geometry">
      <rect>
       <x>290</x>
-      <y>360</y>
+      <y>430</y>
       <width>151</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
      <string>Remover Sessão selecionada</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>250</y>
+      <width>491</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="placeholderText">
+     <string>Duração do Filme(horas)</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_3">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>280</y>
+      <width>491</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="placeholderText">
+     <string>Duração do Filme(minutos)</string>
     </property>
    </widget>
   </widget>
